@@ -4,7 +4,7 @@
 
 - :student: I’m currently a _cadet_ at **École 42**
 
-<img src="https://media.giphy.com/media/kHlpfzYTn30H9zfwCV/giphy.gif?cid=790b761147bfa0546464bd14d179c97140dad28808c1afaa&rid=giphy.gif" width="175" height="182"/>
+<img src="https://media.giphy.com/media/kHlpfzYTn30H9zfwCV/giphy.gif?cid=790b761147bfa0546464bd14d179c97140dad28808c1afaa&rid=giphy.gif" width="218.75" height="227.5"/>
 
 📫 Want to reach me? 
 
