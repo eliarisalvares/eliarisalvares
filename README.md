@@ -13,7 +13,7 @@
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:eliarisalvares@gmail.com"/)
 ---
   
-[![eliarisalvares's Github stats](https://github-readme-stats.vercel.app/api?username=eliarisalvares&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=calm)](https://github.com/eliarisalvares?tab=repositories)
+[![eliarisalvares's Github stats](https://github-readme-stats.vercel.app/api?username=eliarisalvares&count_private=false&show_icons=true&hide=contribs,issues&hide_border=true&theme=calm)](https://github.com/eliarisalvares?tab=repositories)
 
 ---
 
