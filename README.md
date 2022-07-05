@@ -6,6 +6,8 @@
 
 <img src="https://media.giphy.com/media/kHlpfzYTn30H9zfwCV/giphy.gif?cid=790b761147bfa0546464bd14d179c97140dad28808c1afaa&rid=giphy.gif" width="218.75" height="227.5"/>
 
+If I helped you in any way, you can show some ❤️ by starring my repositories!
+
 📫 Want to reach me? 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eliarisalvares)](https://github.com/eliarisalvares)
