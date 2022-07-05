@@ -17,8 +17,4 @@ If I helped you in any way, you can show some ❤️ by starring my repositories
   
 [![eliarisalvares's Github stats](https://github-readme-stats.vercel.app/api?username=eliarisalvares&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=calm)](https://github.com/eliarisalvares?tab=repositories)
 
----
-
-[![eliarisalvares's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliarisalvares&hide_border=true&theme=calm)](https://github.com/eliarisalvares?tab=repositories)
-
   
